@@ -1,0 +1,5 @@
+# The course 'Machine Learning' at the Higher School of Economics NN
+---
+This repository contains seminar tasks, homework, and lab work that I have done.
+
+The course is devoted to the study of key concepts and tasks of machine learning, methods and models, as well as the development of skills in their practical application to solve research and applied problems. The training covers the stages of data preparation, the formulation of research hypotheses, and the selection of appropriate methods for analysis and forecasting. Special attention is paid to models of learning with a teacher, including regression and classification tasks, as well as models of learning without a teacher – methods of clustering, dimensionality reduction and detection of associative rules. Modern approaches to model optimization and methods for evaluating their quality using various metrics and validation techniques are highlighted. The final element of the course is the formation of skills in interpreting results and formulating meaningful conclusions based on built models, which allows machine learning to be applied in real-world practical scenarios.
